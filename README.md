@@ -130,9 +130,9 @@ This repository exposes enough evidence to audit the public case:
 - negative results;
 - source-level public evidence notes.
 
-It intentionally does **not** disclose CIEC LAB's proprietary operating architecture.
+It intentionally does **not** disclose CIEC LAB's proprietary operating methods.
 
-Internal prompts, routing logic, decision thresholds, handoff contracts, private schemas, orchestration rules and laboratory control logic are withheld.
+The public case exposes outcomes, evidence boundaries and verification signals — not the laboratory machinery that produced them.
 
 See [Public Disclosure Boundary](PUBLIC_DISCLOSURE_BOUNDARY.md).
 
@@ -142,7 +142,7 @@ See [Public Disclosure Boundary](PUBLIC_DISCLOSURE_BOUNDARY.md).
 
 FORGE Ω · ALETHEIA Ω · OSINTEGA Ω · INVENTOR · SEDA Ω
 
-No internal role maps, prompts or routing logic are disclosed in this public case study.
+No operational details are disclosed in this public case study.
 
 ---
 
