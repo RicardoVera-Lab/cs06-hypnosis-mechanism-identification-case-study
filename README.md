@@ -1,42 +1,67 @@
 # CS06 — Hypnosis Mechanism Identification Under Uncertainty
 
-> **A CIEC LAB case study in adversarial research, mechanism discrimination, reproducibility and controlled scientific closure.**
+> **CIEC LAB CASE STUDY — turning a bold hypothesis into an auditable research program with reproducible computational closure.**
 
-**We did not optimize for a positive answer. We optimized for an answer that could survive attack.**
+## What this case proves about CIEC LAB
 
-This case began with a strong, intuitive hypothesis: that surprise or pattern interruption might create a special period of increased hypnotic responsiveness.
+CIEC LAB took a scientifically attractive hypothesis, **refused to treat it as truth**, broke it into competing explanations, stress-tested those explanations, audited the available evidence, reproduced the computational outputs, and closed the project when the next meaningful step required a different evidence program.
 
-CIEC LAB did not treat that hypothesis as a conclusion. It pressure-tested it, decomposed it into rival explanations, built computational discrimination tests, audited the available evidence, calibrated the surviving models against real-world noise information, and closed the investigation exactly where the evidence stopped.
+That is the product being demonstrated here:
 
-The result is not a clinical breakthrough claim. It is a **demonstration of what a high-reliability AI research laboratory can do when the original idea is attractive, the evidence is incomplete, and false certainty would be easier to sell than the truth.**
+> **not “AI that gives answers,” but a research system designed to produce decision-grade knowledge under uncertainty.**
 
----
+### Public performance signals
 
-## Evidence wall
-
-| Public verification signal | Result |
+| Verification signal | Result |
 |---|---:|
-| Final governance conformance + boundary cases passed | **96 / 96** |
-| Frozen conformance suite | **80 / 80** |
-| Fresh final-audit boundary cases | **16 / 16** |
+| Final governance conformance + boundary checks | **96 / 96 PASS** |
 | Computational preflight artifacts integrity-checked | **33 / 33** |
 | Final calibration artifacts integrity-checked | **25 / 25** |
 | Hash mismatches across those integrity checks | **0** |
 | Final reproducibility script | **PASS — exit code 0** |
 | Selected reproduced outputs | **byte-for-byte match** |
-| Real-world sources audited for calibration value | **4** |
-| Secondary datasets falsely promoted as decisive | **0** |
-| Missing reliability values fabricated to force a result | **0** |
+| Real-world sources retained for calibration | **4** |
+| Weak secondary datasets promoted as decisive | **0** |
+| Missing reliability values fabricated | **0** |
+
+**The laboratory did not reward the most exciting story. It rewarded the strongest surviving evidence state.**
 
 See [Evidence Wall](evidence/EVIDENCE_WALL.md) and [Verification Receipts](evidence/VERIFICATION_RECEIPTS.md).
 
 ---
 
-## What the laboratory actually accomplished
+## Executive signal
 
-The investigation converted a broad “surprise makes suggestion work better” story into a **bounded mechanism-identification problem**.
+For an executive, founder, investor or R&D leader, the important question is not hypnosis.
 
-It separated several explanations that are often blended together in hypnosis discussions:
+The important question is:
+
+> **Can a research system take a seductive idea, expose its hidden assumptions, identify the real evidence bottleneck, avoid false positives, and tell you exactly when more spending stops being rational?**
+
+CS06 demonstrates that capability.
+
+This behavior is transferable to:
+
+- R&D hypothesis screening;
+- AI and analytics validation;
+- scientific due diligence;
+- technology assessment;
+- decision intelligence;
+- experimental design;
+- evidence audits;
+- high-uncertainty strategy.
+
+See [Executive Signal](report/EXECUTIVE_SIGNAL.md).
+
+---
+
+## The research challenge
+
+The starting hypothesis proposed that surprise or pattern interruption might create a special period of increased hypnotic responsiveness.
+
+Instead of treating that narrative as a conclusion, CIEC LAB converted it into a mechanism-discrimination problem.
+
+The research separated several possible contributors that are commonly blended together:
 
 - expectation;
 - social/contextual framing;
@@ -45,94 +70,74 @@ It separated several explanations that are often blended together in hypnosis di
 - predictive updating;
 - physiological activation and recovery.
 
-The strongest surprise-specific story did **not** survive as a demonstrated general mechanism.
-
-What survived was more useful: a framework that can ask **which explanation is actually distinguishable from which**, under what measurement conditions, and when the only scientifically legitimate answer is **“the available evidence cannot decide.”**
+The result was a much stronger scientific object: **a bounded map of rival explanations, their measurement requirements, and the conditions under which a mechanism can or cannot be selected.**
 
 ---
 
-## Scientific closure
+## Scientific result
 
-### Surviving family 1
+### Rival family A
 **Expectation vs context-specific influence vs demand/response criterion**
 
-**Status:** identifiable in principle, provided expectation is measured with sufficient precision.
+**State:** identifiable in principle when expectation is measured with sufficient precision.
 
-**Critical finding:** poor measurement of expectation can manufacture a false residual that looks like a separate contextual mechanism.
+**Important result:** poor measurement of expectation can create a false residual that looks like a separate contextual mechanism.
 
-### Surviving family 2
+### Rival family B
 **Attentional reorientation vs predictive updating**
 
-**Status:** partially identifiable.
+**State:** partially identifiable.
 
-**Critical finding:** realistic instability expands the region in which no mechanism should be selected. Under weak measurement conditions, the correct output is abstention rather than a fabricated winner.
+**Important result:** realistic instability expands the region in which the correct action is abstention rather than selecting a false winner.
 
-### Secondary-data audit
-No existing secondary dataset in the audited evidence universe contained the full minimum observable structure required to decisively adjudicate the surviving rivals.
+### Secondary evidence
+No audited secondary dataset contained the full minimum observable structure required for decisive adjudication.
 
-Four sources were still useful for **calibration-only** information.
+Four real-world sources still provided legitimate calibration value.
 
-### Final state
+### Closure
 **CLOSED WITH BOUNDED UNRESOLVED QUESTIONS**
 
-The next meaningful leap would require a separately designed primary-data program. That is a new research project, not an excuse to extend this one indefinitely.
+The next decisive step would require a separately designed primary-data program. That is a new research project, not another internal iteration.
 
 ---
 
-## Why this matters beyond hypnosis
+## Why the negative evidence is commercially valuable
 
-This repository is a case study of **research capability**, not a marketing claim about hypnosis.
+Weak R&D programs often fail in one of two ways:
 
-The same laboratory behavior is useful whenever an organization faces:
+1. they fall in love with the original idea; or  
+2. they keep researching long after the evidence stopped changing the decision.
 
-- a bold hypothesis with incomplete evidence;
-- multiple rival explanations;
-- noisy or partial datasets;
-- expensive experiments;
-- high cost of false positives;
-- pressure to produce a confident answer before the evidence deserves one.
+CS06 did neither.
 
-The CIEC LAB value proposition demonstrated here is simple:
+The strongest version of the original surprise-specific story was not promoted beyond the evidence.
 
-> **Take a complex claim, attack it, reduce it to what can actually be known, show exactly what evidence would change the decision, and stop before research turns into theater.**
+That is not a failure of the laboratory.
 
-For R&D, strategy, AI, analytics, scientific due diligence and decision intelligence, that is a commercially meaningful capability.
+It is **evidence that the laboratory can protect capital from its own preferred hypothesis.**
 
----
+A system that only produces “yes” is not research.
 
-## What this case does **not** claim
-
-This repository does **not** claim:
-
-- discovery of “how hypnosis works”;
-- a superior hypnosis induction;
-- clinical efficacy;
-- a universal surprise window;
-- validated therapeutic benefit;
-- human safety estimates;
-- novelty or priority for a new scientific mechanism.
-
-Those boundaries are deliberate.
-
-See [Claims and Limitations](CLAIMS_AND_LIMITATIONS.md).
+A system that knows when to kill, when to abstain, and when to promote is far more valuable.
 
 ---
 
 ## Public evidence, private machinery
 
-This repository exposes enough evidence to audit the public case:
+This repository exposes:
 
-- result summaries;
+- public scientific trajectory;
+- claim states;
+- evidence boundaries;
 - verification counts;
-- integrity receipts;
-- research closure;
-- claim boundaries;
-- negative results;
-- source-level public evidence notes.
+- reproducibility receipts;
+- selected negative results;
+- research closure.
 
-It intentionally does **not** disclose CIEC LAB's proprietary operating methods.
+It does **not** expose CIEC LAB proprietary operating methods.
 
-The public case exposes outcomes, evidence boundaries and verification signals — not the laboratory machinery that produced them.
+> **Public evidence. Private machinery.**
 
 See [Public Disclosure Boundary](PUBLIC_DISCLOSURE_BOUNDARY.md).
 
@@ -142,7 +147,24 @@ See [Public Disclosure Boundary](PUBLIC_DISCLOSURE_BOUNDARY.md).
 
 FORGE Ω · ALETHEIA Ω · OSINTEGA Ω · INVENTOR · SEDA Ω
 
-No operational details are disclosed in this public case study.
+No operational details are disclosed.
+
+---
+
+## What this case does not claim
+
+This case does not claim:
+
+- discovery of the universal mechanism of hypnosis;
+- a superior clinical induction;
+- validated therapeutic efficacy;
+- a universal surprise window;
+- human safety estimates;
+- scientific novelty or priority for a new mechanism.
+
+Those boundaries are deliberate and are part of the evidence discipline being demonstrated.
+
+See [Claims and Limitations](CLAIMS_AND_LIMITATIONS.md).
 
 ---
 
@@ -156,6 +178,8 @@ No operational details are disclosed in this public case study.
 
 ---
 
-### CIEC LAB
+# CIEC LAB
 
-**High-reliability AI research for problems where being confidently wrong is more expensive than saying “not yet.”**
+### High-reliability AI research for problems where confident error is more expensive than disciplined uncertainty.
+
+**Research. Break. Verify. Decide. Stop.**
