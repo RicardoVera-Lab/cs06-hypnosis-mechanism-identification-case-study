@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this public case study, cite the repository."
+title: "CS06 — Hypnosis Mechanism Identification Under Uncertainty"
+type: dataset
+authors:
+  - family-names: "Vera"
+    given-names: "Ricardo"
+repository-code: "https://github.com/RicardoVera-Lab/cs06-hypnosis-mechanism-identification-case-study"
+abstract: "CIEC LAB public case study in adversarial hypothesis stress-testing, mechanism discrimination, reproducibility and scientific closure under uncertainty."
+license: "proprietary"
