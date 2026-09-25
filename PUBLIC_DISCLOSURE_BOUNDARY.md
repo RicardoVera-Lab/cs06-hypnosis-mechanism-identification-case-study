@@ -1,8 +1,8 @@
 # Public Disclosure Boundary
 
-## What is intentionally public
+## Public by design
 
-This repository may expose:
+This repository exposes only what is necessary to evaluate the case as a public research artifact:
 
 - the research question;
 - the public scientific trajectory;
@@ -11,29 +11,16 @@ This repository may expose:
 - verification counts;
 - integrity and reproducibility receipts;
 - high-level limitations;
-- names of AI research agents involved;
-- public/source-level evidence notes.
+- names of the research agents involved.
 
-## What is intentionally withheld
+## Proprietary by design
 
-CIEC LAB proprietary operating methods are not published here.
+CIEC LAB's internal operating methods are proprietary and are not disclosed.
 
-This includes, without limitation:
+No operational architecture is required to evaluate the public claims made in this repository.
 
-- master prompts;
-- internal routing logic;
-- decision thresholds;
-- gate contracts;
-- handoff instructions;
-- internal schemas;
-- private debt registers;
-- orchestration logic;
-- agent authority maps;
-- control-plane implementation;
-- internal research packages and ZIP capsules.
+## Principle
 
-## Reason
+**Public evidence. Private machinery.**
 
-The purpose of this repository is to make the **case outcome and evidence discipline visible** without publishing the machinery required to reproduce CIEC LAB itself.
-
-Public verifiability does not require operational disclosure.
+The objective is to make the case auditable without making CIEC LAB reproducible as an operating system.
