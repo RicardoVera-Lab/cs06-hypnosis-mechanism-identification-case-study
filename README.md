@@ -106,7 +106,7 @@ The next decisive step would require a separately designed primary-data program.
 
 Weak R&D programs often fail in one of two ways:
 
-1. they fall in love with the original idea; or  
+1. they fall in love with the original idea; or
 2. they keep researching long after the evidence stopped changing the decision.
 
 CS06 did neither.
@@ -143,11 +143,11 @@ See [Public Disclosure Boundary](PUBLIC_DISCLOSURE_BOUNDARY.md).
 
 ---
 
-## Agents involved
+## Research system
 
-FORGE Ω · ALETHEIA Ω · OSINTEGA Ω · INVENTOR · SEDA Ω
+This work was produced inside CIEC LAB's proprietary research architecture.
 
-No operational details are disclosed.
+Internal role names, prompts, orchestration, routing, thresholds, handoff formats and decision machinery are intentionally excluded from the public evidence surface.
 
 ---
 
