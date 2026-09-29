@@ -10,12 +10,13 @@ This repository exposes only what is necessary to evaluate the case as a public 
 - negative results;
 - verification counts;
 - integrity and reproducibility receipts;
-- high-level limitations;
-- names of the research agents involved.
+- high-level limitations.
 
 ## Proprietary by design
 
 CIEC LAB's internal operating methods are proprietary and are not disclosed.
+
+Internal role names, prompts, orchestration, routing logic, thresholds, handoff formats, decision authorities and broader laboratory memory are outside the public evidence surface.
 
 No operational architecture is required to evaluate the public claims made in this repository.
 
