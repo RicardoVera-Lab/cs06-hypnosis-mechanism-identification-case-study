@@ -2,7 +2,7 @@
 
 > **CIEC LAB CASE STUDY — turning a bold hypothesis into an auditable research program with reproducible computational closure.**
 
-## What this case proves about CIEC LAB
+## What this case demonstrates about CIEC LAB
 
 CIEC LAB took a scientifically attractive hypothesis, **refused to treat it as truth**, broke it into competing explanations, stress-tested those explanations, audited the available evidence, reproduced the computational outputs, and closed the project when the next meaningful step required a different evidence program.
 
@@ -180,6 +180,6 @@ See [Claims and Limitations](CLAIMS_AND_LIMITATIONS.md).
 
 # CIEC LAB
 
-### High-reliability AI research for problems where confident error is more expensive than disciplined uncertainty.
+### Evidence-calibrated AI-assisted research for problems where confident error is more expensive than disciplined uncertainty.
 
 **Research. Break. Verify. Decide. Stop.**
