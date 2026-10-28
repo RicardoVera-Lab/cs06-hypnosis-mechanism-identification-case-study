@@ -25,3 +25,7 @@ No operational architecture is required to evaluate the public claims made in th
 **Public evidence. Private machinery.**
 
 The objective is to make the case auditable without making CIEC LAB reproducible as an operating system.
+
+## Publication versions
+
+This boundary describes the current public snapshot. Earlier Git commits remain accessible and may contain earlier disclosures. Updating the current files does not erase Git history or previously downloaded copies.

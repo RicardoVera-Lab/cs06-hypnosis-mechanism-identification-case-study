@@ -24,6 +24,8 @@ That is the product being demonstrated here:
 | Weak secondary datasets promoted as decisive | **0** |
 | Missing reliability values fabricated | **0** |
 
+These counts and reproducibility receipts document internal checks of the research packages. This public repository contains the case narrative and selected receipts; it does not include the executable packages or full input artifacts needed to rerun those checks. The counts are not external independent validation.
+
 **The laboratory did not reward the most exciting story. It rewarded the strongest surviving evidence state.**
 
 See [Evidence Wall](evidence/EVIDENCE_WALL.md) and [Verification Receipts](evidence/VERIFICATION_RECEIPTS.md).

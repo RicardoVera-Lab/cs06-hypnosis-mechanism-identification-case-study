@@ -1,5 +1,7 @@
 # Verification Receipts
 
+These are summaries of internal verification of the research packages. The executable packages and full input artifacts are not distributed in this public repository, so these receipts are not a public rerun kit or evidence of external independent reproduction.
+
 ## Final governance verification
 
 Public receipt:
